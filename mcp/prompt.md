@@ -95,7 +95,7 @@ Critical Details:
 - Use exact error messages and log messages as specified
 - Maintain exact spacing and formatting in markdown output
 - Use nullish coalescing (??) for safe property access
-- Server name is "superheros-mcp"
+- Server name is "superheroes-mcp"
 - All console output goes to stderr (console.error)
 - Use hero.id?.toString() for ID comparison
 - Return type from tool must have content array structure
